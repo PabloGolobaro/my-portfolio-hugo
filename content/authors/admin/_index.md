@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Alice Wu (吳恩達)
+title: Павел Головин
 
 # Is this the primary user of the site?
 superuser: true
@@ -10,20 +10,18 @@ role: ''
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 🎯️
 
 # Organizations/Affiliations
-#organizations:
-#- name: 腾讯
 #  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Я заинтересован в участии в проектах разработки web-приложений и высоконагруженных систем.
 
 #interests:
-#- Artificial Intelligence
-#- Computational Linguistics
-#- Information Retrieval
+#- Бэкэнд
+#- Разработка ботов
+#- Разработка высоконагруженных систем
 
 #education:
 #  courses:
@@ -44,17 +42,14 @@ bio: My research interests include distributed robotics, mobile computing and pr
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'about/#contact' # For a direct email link, use "mailto:test@example.org".
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/wowchemy
+    link: "yeu344@gmail.com"
   - icon: instagram
     icon_pack: fab
-    link: https://instagram.com/geocushen
-# Uncomment below for Github link
-#- icon: github
-#  icon_pack: fab
-#  link: https://github.com/gcushen
+    link: https://instagram.com/pablo.golobar
+
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/PabloGolobaro
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -65,9 +60,29 @@ social:
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 #email: ""
 ---
+Я разработчик с двухлетним стажем програмирования на языке Golang, окончил высшее учебное заведение по специальности "Информационная безопасть". 
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Имею глубокие знания в области информатики, понимание современных сетей связи. За время обучения приобрел навыки в разработке на языках Python, С++. В данный момент наибольший интерес для меня представляет развитие как Go - разработчика. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Владею знаниями и навыками:
+- Разработка конкуретных и потокобезопасных приложений на языке Go
+- Работа с SQL/NoSQL базами данных PostgreSQL, MongoDB, Redis. Понимание принципов ORM.
+- Контейнеризация приложений с использованием Docker, Docker-Compose
+- Умение писать Unit-тесты
+- Работа с VCS Git
+- Организация системы мониторинга приложений посредством OpenTelemetry и Prometheus
+- Знание и умение применять освновные стурктуры данных и алгоритмы.
+- Умение применять различные модели авторизации при разработке API
+- Понимание принципов SOLID и умение их применить в разработке
+- Навыки построения RESTApi приложений, gRPC приложений
+- Базовые знания HTML, CSS, JS
+- Глубокое знание и понимание принципов работы с TelegramAPI
+- Навыки работы с генератором статических сайтов HUGO
 
-{{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.
+Стек Golang:
+- GIN
+- GORM
+- ZAP
+- Cobra
+
+[//]: # ({{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.)

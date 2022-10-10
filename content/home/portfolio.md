@@ -10,7 +10,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 20
 
-title: ''
+title: 'Мои проекты'
 subtitle: ''
 
 content:
@@ -26,14 +26,15 @@ content:
   # To filter by a specific tag, set `tag` to an existing tag name.
   # To remove the toolbar, delete the entire `filter_button` block.
   filter_button:
-    - name: All
+    - name: Все
       tag: '*'
-    - name: Machine Learning
-      tag: ML
-    - name: Computer Vision
-      tag: CV
-    - name: NLP
-      tag: NLP
+    - name: Телеграм боты
+      tag: TG
+    - name: Web приложения
+      tag: Web
+    - name: Сбор и обработка данных
+      tag: Data
+    
 
 design:
   columns: '1'
